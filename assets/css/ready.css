@@ -6120,6 +6120,13 @@ body {
   background: #1D62F0 !important;
   border-color: #1D62F0 !important;
 }
+
+.btn-color {
+  background:linear-gradient( 135deg, rgba(20, 101, 223, 50) 0%, rgba(35, 184, 147, 50) 100%) !important;
+  border-radius: 30px;
+  color: #ffffff;
+}
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:disabled {
   background: #1D62F0 !important;
   border-color: #1D62F0 !important;

@@ -6449,6 +6449,16 @@ body {
   color: #ffffff !important;
 }
 
+.btn-colors {
+  background: linear-gradient(135deg, #1465df 0%, #23b893 100%) !important;
+  color: #ffffff !important;
+}
+
+.btn-colors:hover, .btn-colors:focus, .btn-colors:disabled {
+  background: #607D8B !important;
+  color: #ffffff !important;
+}
+
 .btn-primary {
   background: #1D62F0 !important;
   border-color: #1D62F0 !important;
